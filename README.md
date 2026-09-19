@@ -8,7 +8,7 @@
 
 Ask questions about one or more PDFs and get answers grounded in their actual content — not guesses. Built as a learning project to understand Retrieval-Augmented Generation end to end, from a bare Colab notebook to a deployed multi-document chat app.
 
-**🔗 Live demo:** [your-streamlit-app-url-here](#)
+**🔗 Live demo:** https://pdf-app-langchain-ixvw2omx7spihzzmqtpp9q.streamlit.app/(#)
 
 <!-- Add a demo GIF here once recorded, e.g.: -->
 <!-- ![Demo](assets/demo.gif) -->
